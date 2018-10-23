@@ -10,6 +10,7 @@
     <script src="main.js"></script>
 </head>
 <body>
-   <div class="clase1"></div>     
+   <div class="clase1"></div>    
+   <div class="clase2"></div>  
 </body>
 </html>
