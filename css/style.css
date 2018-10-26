@@ -7,8 +7,16 @@
 
 .clase2{
     border:10px solid yellow;
-    background-color: red;
+    background-color: blue;
     width: 500px;
     height: 500px;
     margin-top: 10%;
+}
+
+.clase3{
+    border:10px solid red;
+    background-color: black;
+    width: 500px;
+    height: 500px;
+    margin-top: 0 auto%;
 }
