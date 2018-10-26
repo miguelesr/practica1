@@ -11,5 +11,6 @@
 <body>
    <div class="clase1"></div>    
    <div class="clase2"></div>  
+   <div class="clase3"></div> 
 </body>
 </html>
